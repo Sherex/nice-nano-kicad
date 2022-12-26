@@ -6,10 +6,10 @@
     (property "Value" "nice_nano" (id 1) (at 0 2.54 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (id 2) (at 26.67 -63.5 90)
+    (property "Footprint" "nice-nano-kicad:nice_nano" (id 2) (at 26.67 -63.5 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 26.67 -63.5 90)
+    (property "Datasheet" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic" (id 3) (at 26.67 -63.5 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (symbol "nice_nano_0_1"
